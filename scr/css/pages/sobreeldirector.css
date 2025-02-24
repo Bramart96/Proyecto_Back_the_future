@@ -1,0 +1,44 @@
+
+
+/***********NAV************/
+.menu{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/css/assets/images/back-to-the-future.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    position: relative;    
+    
+}
+
+.menu_list a:hover {
+    background-color:rgb(241,192,58);
+    border-radius: 5px;
+    color:white
+}
+
+
+
+h2{
+    position: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: rgb(41, 43, 46);
+    font-size: 1.6rem; 
+}
+
+.text{
+    font-size: 1.5rem;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+ 
+}
+/************FOOTER***********/

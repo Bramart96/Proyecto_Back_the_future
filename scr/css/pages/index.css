@@ -1,0 +1,83 @@
+/***********BODY***********/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(189,213,240)
+  
+  }
+h2{
+    color: rgba(255, 255, 255, 0.842);
+    
+}
+
+h3{
+    margin-left: 1.5%;
+}
+/***********RESET***********/
+
+
+
+
+
+
+.portadapelicula{
+   
+    margin-left: 1.5%;
+    float: right;
+}
+.portada1{ 
+    text-align: justify;
+    width: 140px;
+    margin-top: 80px; 
+    padding: 10px 20px;
+}
+.portadapelicula2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+   
+    
+}
+.portada2{
+    text-align: justify;
+    width: 250px;
+    height: auto;
+    float: right;   
+}
+.footer{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+/********SITE STYLES*********/
+
+    
+
+
+
+
+/***********NAV************/
+
+.menu{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/css/assets/images/thumb-1920-947851.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    position: relative;    
+    
+}
+
+
+/************FOOTER***********/
